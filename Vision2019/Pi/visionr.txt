@@ -1,0 +1,3 @@
+# visionr - vision run
+
+java -cp .:cameraserver.jar:cscore.jar:ntcore.jar:opencv-344.jar:wpiHal.jar:wpilibj.jar:wpiutil.jar -Djava.library.path=/usr/local/frc/lib $1

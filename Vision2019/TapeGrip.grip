@@ -1,0 +1,264 @@
+<grip:Pipeline>
+  <sources>
+    <grip:MultiImageFile>
+      <property name="path[26]" value="C:\Users\Public\Pictures\Grip\bad36.jpg"/>
+      <property name="path[75]" value="C:\Users\Public\Pictures\Grip\bad85.jpg"/>
+      <property name="path[10]" value="C:\Users\Public\Pictures\Grip\bad11.jpg"/>
+      <property name="path[16]" value="C:\Users\Public\Pictures\Grip\bad17.jpg"/>
+      <property name="path[65]" value="C:\Users\Public\Pictures\Grip\bad75.jpg"/>
+      <property name="path[5]" value="C:\Users\Public\Pictures\Grip\bad6.jpg"/>
+      <property name="path[55]" value="C:\Users\Public\Pictures\Grip\bad65.jpg"/>
+      <property name="path[45]" value="C:\Users\Public\Pictures\Grip\bad55.jpg"/>
+      <property name="path[35]" value="C:\Users\Public\Pictures\Grip\bad45.jpg"/>
+      <property name="path[25]" value="C:\Users\Public\Pictures\Grip\bad35.jpg"/>
+      <property name="path[74]" value="C:\Users\Public\Pictures\Grip\bad84.jpg"/>
+      <property name="path[15]" value="C:\Users\Public\Pictures\Grip\bad16.jpg"/>
+      <property name="path[64]" value="C:\Users\Public\Pictures\Grip\bad74.jpg"/>
+      <property name="path[4]" value="C:\Users\Public\Pictures\Grip\bad5.jpg"/>
+      <property name="path[54]" value="C:\Users\Public\Pictures\Grip\bad64.jpg"/>
+      <property name="path[44]" value="C:\Users\Public\Pictures\Grip\bad54.jpg"/>
+      <property name="path[34]" value="C:\Users\Public\Pictures\Grip\bad44.jpg"/>
+      <property name="path[24]" value="C:\Users\Public\Pictures\Grip\bad34.jpg"/>
+      <property name="path[73]" value="C:\Users\Public\Pictures\Grip\bad83.jpg"/>
+      <property name="path[79]" value="C:\Users\Public\Pictures\Grip\bad89.jpg"/>
+      <property name="path[14]" value="C:\Users\Public\Pictures\Grip\bad15.jpg"/>
+      <property name="path[63]" value="C:\Users\Public\Pictures\Grip\bad73.jpg"/>
+      <property name="path[3]" value="C:\Users\Public\Pictures\Grip\bad4.jpg"/>
+      <property name="path[69]" value="C:\Users\Public\Pictures\Grip\bad79.jpg"/>
+      <property name="path[53]" value="C:\Users\Public\Pictures\Grip\bad63.jpg"/>
+      <property name="path[9]" value="C:\Users\Public\Pictures\Grip\bad10.jpg"/>
+      <property name="path[59]" value="C:\Users\Public\Pictures\Grip\bad69.jpg"/>
+      <property name="path[43]" value="C:\Users\Public\Pictures\Grip\bad53.jpg"/>
+      <property name="path[49]" value="C:\Users\Public\Pictures\Grip\bad59.jpg"/>
+      <property name="path[33]" value="C:\Users\Public\Pictures\Grip\bad43.jpg"/>
+      <property name="path[82]" value="C:\Users\Public\Pictures\Grip\bad92.jpg"/>
+      <property name="path[39]" value="C:\Users\Public\Pictures\Grip\bad49.jpg"/>
+      <property name="path[23]" value="C:\Users\Public\Pictures\Grip\bad33.jpg"/>
+      <property name="path[72]" value="C:\Users\Public\Pictures\Grip\bad82.jpg"/>
+      <property name="path[29]" value="C:\Users\Public\Pictures\Grip\bad39.jpg"/>
+      <property name="path[78]" value="C:\Users\Public\Pictures\Grip\bad88.jpg"/>
+      <property name="path[13]" value="C:\Users\Public\Pictures\Grip\bad14.jpg"/>
+      <property name="path[62]" value="C:\Users\Public\Pictures\Grip\bad72.jpg"/>
+      <property name="path[2]" value="C:\Users\Public\Pictures\Grip\bad3.jpg"/>
+      <property name="path[19]" value="C:\Users\Public\Pictures\Grip\bad20.jpg"/>
+      <property name="path[68]" value="C:\Users\Public\Pictures\Grip\bad78.jpg"/>
+      <property name="path[52]" value="C:\Users\Public\Pictures\Grip\bad62.jpg"/>
+      <property name="path[8]" value="C:\Users\Public\Pictures\Grip\bad9.jpg"/>
+      <property name="path[58]" value="C:\Users\Public\Pictures\Grip\bad68.jpg"/>
+      <property name="path[42]" value="C:\Users\Public\Pictures\Grip\bad52.jpg"/>
+      <property name="path[48]" value="C:\Users\Public\Pictures\Grip\bad58.jpg"/>
+      <property name="path[32]" value="C:\Users\Public\Pictures\Grip\bad42.jpg"/>
+      <property name="path[81]" value="C:\Users\Public\Pictures\Grip\bad91.jpg"/>
+      <property name="path[38]" value="C:\Users\Public\Pictures\Grip\bad48.jpg"/>
+      <property name="path[22]" value="C:\Users\Public\Pictures\Grip\bad32.jpg"/>
+      <property name="path[71]" value="C:\Users\Public\Pictures\Grip\bad81.jpg"/>
+      <property name="path[28]" value="C:\Users\Public\Pictures\Grip\bad38.jpg"/>
+      <property name="path[77]" value="C:\Users\Public\Pictures\Grip\bad87.jpg"/>
+      <property name="path[12]" value="C:\Users\Public\Pictures\Grip\bad13.jpg"/>
+      <property name="path[61]" value="C:\Users\Public\Pictures\Grip\bad71.jpg"/>
+      <property name="path[1]" value="C:\Users\Public\Pictures\Grip\bad2.jpg"/>
+      <property name="path[18]" value="C:\Users\Public\Pictures\Grip\bad19.jpg"/>
+      <property name="path[67]" value="C:\Users\Public\Pictures\Grip\bad77.jpg"/>
+      <property name="path[51]" value="C:\Users\Public\Pictures\Grip\bad61.jpg"/>
+      <property name="path[7]" value="C:\Users\Public\Pictures\Grip\bad8.jpg"/>
+      <property name="path[57]" value="C:\Users\Public\Pictures\Grip\bad67.jpg"/>
+      <property name="path[41]" value="C:\Users\Public\Pictures\Grip\bad51.jpg"/>
+      <property name="path[47]" value="C:\Users\Public\Pictures\Grip\bad57.jpg"/>
+      <property name="path[31]" value="C:\Users\Public\Pictures\Grip\bad41.jpg"/>
+      <property name="path[80]" value="C:\Users\Public\Pictures\Grip\bad90.jpg"/>
+      <property name="path[37]" value="C:\Users\Public\Pictures\Grip\bad47.jpg"/>
+      <property name="path[21]" value="C:\Users\Public\Pictures\Grip\bad31.jpg"/>
+      <property name="path[70]" value="C:\Users\Public\Pictures\Grip\bad80.jpg"/>
+      <property name="path[27]" value="C:\Users\Public\Pictures\Grip\bad37.jpg"/>
+      <property name="path[76]" value="C:\Users\Public\Pictures\Grip\bad86.jpg"/>
+      <property name="path[11]" value="C:\Users\Public\Pictures\Grip\bad12.jpg"/>
+      <property name="path[60]" value="C:\Users\Public\Pictures\Grip\bad70.jpg"/>
+      <property name="numImages" value="83"/>
+      <property name="path[0]" value="C:\Users\Public\Pictures\Grip\bad1.jpg"/>
+      <property name="path[17]" value="C:\Users\Public\Pictures\Grip\bad18.jpg"/>
+      <property name="path[66]" value="C:\Users\Public\Pictures\Grip\bad76.jpg"/>
+      <property name="path[50]" value="C:\Users\Public\Pictures\Grip\bad60.jpg"/>
+      <property name="path[6]" value="C:\Users\Public\Pictures\Grip\bad7.jpg"/>
+      <property name="index" value="77"/>
+      <property name="path[56]" value="C:\Users\Public\Pictures\Grip\bad66.jpg"/>
+      <property name="path[40]" value="C:\Users\Public\Pictures\Grip\bad50.jpg"/>
+      <property name="path[46]" value="C:\Users\Public\Pictures\Grip\bad56.jpg"/>
+      <property name="path[30]" value="C:\Users\Public\Pictures\Grip\bad40.jpg"/>
+      <property name="path[36]" value="C:\Users\Public\Pictures\Grip\bad46.jpg"/>
+      <property name="path[20]" value="C:\Users\Public\Pictures\Grip\bad30.jpg"/>
+    </grip:MultiImageFile>
+    <grip:MultiImageFile>
+      <property name="path[9]" value="C:\Users\Public\Pictures\bad10.jpg"/>
+      <property name="path[10]" value="C:\Users\Public\Pictures\bad11.jpg"/>
+      <property name="path[6]" value="C:\Users\Public\Pictures\bad7.jpg"/>
+      <property name="path[3]" value="C:\Users\Public\Pictures\bad4.jpg"/>
+      <property name="path[0]" value="C:\Users\Public\Pictures\bad1.jpg"/>
+      <property name="path[8]" value="C:\Users\Public\Pictures\bad9.jpg"/>
+      <property name="index" value="1"/>
+      <property name="numImages" value="12"/>
+      <property name="path[5]" value="C:\Users\Public\Pictures\bad6.jpg"/>
+      <property name="path[2]" value="C:\Users\Public\Pictures\bad3.jpg"/>
+      <property name="path[11]" value="C:\Users\Public\Pictures\bad12.jpg"/>
+      <property name="path[7]" value="C:\Users\Public\Pictures\bad8.jpg"/>
+      <property name="path[4]" value="C:\Users\Public\Pictures\bad5.jpg"/>
+      <property name="path[1]" value="C:\Users\Public\Pictures\bad2.jpg"/>
+    </grip:MultiImageFile>
+    <grip:ImageFile>
+      <property name="path" value="C:\Users\Public\Pictures\bad2.jpg"/>
+    </grip:ImageFile>
+    <grip:MultiImageFile>
+      <property name="numImages" value="5"/>
+      <property name="path[0]" value="C:\Users\Public\Pictures\bad1.jpg"/>
+      <property name="path[1]" value="C:\Users\Public\Pictures\bad2.jpg"/>
+      <property name="index" value="3"/>
+      <property name="path[2]" value="C:\Users\Public\Pictures\bad3.jpg"/>
+      <property name="path[3]" value="C:\Users\Public\Pictures\bad4.jpg"/>
+      <property name="path[4]" value="C:\Users\Public\Pictures\bad5.jpg"/>
+    </grip:MultiImageFile>
+    <grip:ImageFile>
+      <property name="path" value="C:\Users\Public\Pictures\bad1.jpg"/>
+    </grip:ImageFile>
+    <grip:ImageFile>
+      <property name="path" value="C:\Users\Public\Pictures\Grip\bad18 (2).jpg"/>
+    </grip:ImageFile>
+    <grip:ImageFile>
+      <property name="path" value="E:\good373.jpg"/>
+    </grip:ImageFile>
+  </sources>
+  <steps>
+    <grip:Step name="HSV Threshold">
+      <grip:Input step="0" socket="0"/>
+      <grip:Input step="0" socket="1">
+        <value>
+          <double>38.637361297402755</double>
+          <double>144.67576791808872</double>
+        </value>
+      </grip:Input>
+      <grip:Input step="0" socket="2">
+        <value>
+          <double>9.604519774011301</double>
+          <double>255.0</double>
+        </value>
+      </grip:Input>
+      <grip:Input step="0" socket="3">
+        <value>
+          <double>20.0</double>
+          <double>255.0</double>
+        </value>
+      </grip:Input>
+      <grip:Output step="0" socket="0" previewed="true"/>
+    </grip:Step>
+    <grip:Step name="CV erode">
+      <grip:Input step="1" socket="0"/>
+      <grip:Input step="1" socket="1"/>
+      <grip:Input step="1" socket="2"/>
+      <grip:Input step="1" socket="3">
+        <value>1.0</value>
+      </grip:Input>
+      <grip:Input step="1" socket="4">
+        <value>BORDER_CONSTANT</value>
+      </grip:Input>
+      <grip:Input step="1" socket="5"/>
+      <grip:Output step="1" socket="0" previewed="false"/>
+    </grip:Step>
+    <grip:Step name="CV dilate">
+      <grip:Input step="2" socket="0"/>
+      <grip:Input step="2" socket="1"/>
+      <grip:Input step="2" socket="2"/>
+      <grip:Input step="2" socket="3">
+        <value>1.0</value>
+      </grip:Input>
+      <grip:Input step="2" socket="4">
+        <value>BORDER_CONSTANT</value>
+      </grip:Input>
+      <grip:Input step="2" socket="5"/>
+      <grip:Output step="2" socket="0" previewed="false"/>
+    </grip:Step>
+    <grip:Step name="Find Contours">
+      <grip:Input step="3" socket="0"/>
+      <grip:Input step="3" socket="1">
+        <value>false</value>
+      </grip:Input>
+      <grip:Output step="3" socket="0" previewed="false"/>
+    </grip:Step>
+    <grip:Step name="Filter Contours">
+      <grip:Input step="4" socket="0"/>
+      <grip:Input step="4" socket="1">
+        <value>520.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="2">
+        <value>0.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="3">
+        <value>0.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="4">
+        <value>1000.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="5">
+        <value>0.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="6">
+        <value>1000.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="7">
+        <value>
+          <int>0</int>
+          <int>100</int>
+        </value>
+      </grip:Input>
+      <grip:Input step="4" socket="8">
+        <value>1000000.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="9">
+        <value>0.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="10">
+        <value>0.0</value>
+      </grip:Input>
+      <grip:Input step="4" socket="11">
+        <value>1000.0</value>
+      </grip:Input>
+      <grip:Output step="4" socket="0" previewed="true"/>
+    </grip:Step>
+  </steps>
+  <connections>
+    <grip:Connection>
+      <grip:Output step="3" socket="0" previewed="false"/>
+      <grip:Input step="4" socket="0"/>
+    </grip:Connection>
+    <grip:Connection>
+      <grip:Output step="1" socket="0" previewed="false"/>
+      <grip:Input step="2" socket="0"/>
+    </grip:Connection>
+    <grip:Connection>
+      <grip:Output source="6" socket="0" previewed="false"/>
+      <grip:Input step="0" socket="0"/>
+    </grip:Connection>
+    <grip:Connection>
+      <grip:Output step="0" socket="0" previewed="true"/>
+      <grip:Input step="1" socket="0"/>
+    </grip:Connection>
+    <grip:Connection>
+      <grip:Output step="2" socket="0" previewed="false"/>
+      <grip:Input step="3" socket="0"/>
+    </grip:Connection>
+  </connections>
+  <settings>
+    <teamNumber>0</teamNumber>
+    <publishAddress>roboRIO-0-FRC.local</publishAddress>
+    <deployAddress>roboRIO-0-FRC.local</deployAddress>
+    <deployDir>/home/lvuser</deployDir>
+    <deployUser>lvuser</deployUser>
+    <deployJavaHome>/usr/local/frc/JRE/</deployJavaHome>
+    <deployJvmOptions>-Xmx50m -XX:-OmitStackTraceInFastThrow -XX:+HeapDumpOnOutOfMemoryError -XX:MaxNewSize=16m</deployJvmOptions>
+  </settings>
+  <codeGenerationSettings>
+    <language>Java</language>
+    <className>TapeGrip</className>
+    <implementWpilibPipeline>false</implementWpilibPipeline>
+    <saveDir>C:\Users\Public\RoboRemedy-2019\Vision\Pi</saveDir>
+    <packageName></packageName>
+    <moduleName>grip</moduleName>
+  </codeGenerationSettings>
+</grip:Pipeline>

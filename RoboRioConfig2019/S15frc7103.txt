@@ -1,0 +1,18 @@
+#!/bin/sh
+ 
+cd /home/lvuser
+
+if test -f FRC_UserProgram4.log
+then cp FRC_UserProgram4.log FRC_UserProgram5.log
+fi
+if test -f FRC_UserProgram3.log
+then cp FRC_UserProgram3.log FRC_UserProgram4.log
+fi
+if test -f FRC_UserProgram2.log
+then cp FRC_UserProgram2.log FRC_UserProgram3.log
+fi
+if test -f FRC_UserProgram.log
+then cp FRC_UserProgram.log FRC_UserProgram2.log
+fi
+      
+exit 0
